@@ -1,0 +1,47 @@
+absl-py==0.15.0
+astunparse==1.6.3
+cached-property==1.5.2
+cachetools==4.2.4
+certifi==2021.5.30
+charset-normalizer==2.0.12
+clang==5.0
+dataclasses==0.8
+flatbuffers==1.12
+gast==0.4.0
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.48.2
+gunicorn==21.2.0
+h5py==3.1.0
+idna==3.6
+importlib-metadata==4.8.3
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+Markdown==3.3.7
+numpy==1.19.5
+oauthlib==3.2.2
+opt-einsum==3.3.0
+packaging==21.3
+plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
+protobuf==3.19.6
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pyparsing==3.1.2
+requests==2.27.1
+requests-oauthlib==1.3.1
+rsa==4.9
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tenacity @ file:///C:/ci/tenacity_1608241952430/work
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.6.2
+tensorflow-estimator==2.6.0
+termcolor==1.1.0
+typing-extensions==3.7.4.3
+urllib3==1.26.18
+Werkzeug==2.0.3
+wincertstore==0.2
+wrapt==1.12.1
+zipp==3.6.0
